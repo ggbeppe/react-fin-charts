@@ -1,0 +1,20 @@
+{
+  "name": "react-fin-charts",
+  "version": "0.0.1",
+  "description": "An NPM package for visualizing financial charts",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ggbeppe/react-fin-charts.git"
+  },
+  "keywords": ["npm", "node", "finance", "charts"],
+  "author": "Giuseppe Graziani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ggbeppe/react-fin-charts/issues"
+  },
+  "homepage": "https://github.com/ggbeppe/react-fin-charts#readme"
+}
